@@ -15,7 +15,7 @@ Actualmente estoy aprendiendo y trabajando con:
 ## Proyectos destacados
 
 ### SuperMario Java
-Juego de plataformas desarrollado en Java Swing, con movimiento lateral, salto, colisiones y lógica de escenario.
+Juego desarrollado en java, con movimiento lateral, salto, colisiones y lógica de escenario.
 
 ### Space Invaders
 Clon del clásico juego Space Invaders realizado en Java, aplicando lógica de enemigos, disparos y puntuación.
@@ -33,12 +33,11 @@ Proyecto técnico orientado a la instalación y mantenimiento masivo de sistemas
 - Git y GitHub
 - MySQL básico
 - HTML / CSS básico
-- Packet Tracer
 - Linux / Ubuntu Server básico
 
 ## Objetivo
 
-Seguir mejorando como desarrollador y conseguir experiencia real en proyectos de software, soporte técnico e infraestructura IT.
+Seguir mejorando como desarrollador y conseguir experiencia real en proyectos de software, soporte técnico, etc. 
 
 ## Contacto
 
