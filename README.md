@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hola, soy Agustin Bruno 👋
 
-<!--
-**agustinbruno07/agustinbruno07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante técnico en informática de Argentina, interesado en el desarrollo de software, backend, videojuegos e infraestructura IT.
 
-Here are some ideas to get you started:
+Actualmente estoy aprendiendo y trabajando con:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- C
+- Programación orientada a objetos
+- Desarrollo de juegos con Java Swing
+- Bases de datos
+- Redes e infraestructura
+- Linux / Ubuntu Server
+
+## Proyectos destacados
+
+### SuperMario Java
+Juego de plataformas desarrollado en Java Swing, con movimiento lateral, salto, colisiones y lógica de escenario.
+
+### Space Invaders
+Clon del clásico juego Space Invaders realizado en Java, aplicando lógica de enemigos, disparos y puntuación.
+
+### Calculadora Java
+Calculadora de escritorio con operaciones básicas, desarrollada para practicar lógica de programación e interfaz gráfica.
+
+### Servidor de Imágenes
+Proyecto técnico orientado a la instalación y mantenimiento masivo de sistemas operativos mediante un servidor de imágenes.
+
+## Tecnologías
+
+- Java
+- C
+- Git y GitHub
+- MySQL básico
+- HTML / CSS básico
+- Packet Tracer
+- Linux / Ubuntu Server básico
+
+## Objetivo
+
+Seguir mejorando como desarrollador y conseguir experiencia real en proyectos de software, soporte técnico e infraestructura IT.
+
+## Contacto
+
+- GitHub: @agustinbruno07
