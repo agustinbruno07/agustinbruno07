@@ -1,44 +1,64 @@
-# Hola, soy Agustin Bruno 👋
+# 👋 Hola, soy Agustin Bruno
 
-Soy estudiante técnico en informática de Argentina, interesado en el desarrollo de software, backend y  videojuegos.
+## 🚀 Sobre mí
+Soy estudiante técnico en informática de Argentina, interesado en el desarrollo de software, backend y videojuegos.
 
-Actualmente estoy aprendiendo y trabajando con:
+Me gusta aprender constantemente, mejorar mis habilidades y trabajar en proyectos prácticos de programación, sistemas y soporte técnico.
 
-- Java
-- C
+---
+
+## 🛠 Tecnologías y herramientas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+---
+
+## 📚 Actualmente aprendiendo
+
 - Programación orientada a objetos
-- Desarrollo de juegos con Java Swing
+- Backend
 - Bases de datos
 - Redes e infraestructura
-- Linux / Ubuntu Server
+- Java 
+- Ubuntu Server y servidores de imágenes
 
-## Proyectos destacados
+---
 
-### SuperMario Java
-Juego desarrollado en java, con movimiento lateral, salto, colisiones y lógica de escenario.
+## 📌 Proyectos destacados
 
-### Space Invaders
-Clon del clásico juego Space Invaders realizado en Java, aplicando lógica de enemigos, disparos y puntuación.
+### 🎮 SuperMario
+Juego desarrollado en Java con movimiento, salto, colisiones y desplazamiento de cámara.
 
-### Calculadora Java
-Calculadora de escritorio con operaciones básicas, desarrollada para practicar lógica de programación e interfaz gráfica.
+### 👾 Space Invaders
+Clon del clásico juego Space Invaders en Java, aplicando lógica de enemigos, disparos y puntuación.
 
-### Servidor de Imágenes
+### 🧮 Calculadora Java
+Calculadora de escritorio desarrollada en Java con operaciones básicas e interfaz gráfica.
+
+### 🖥 Servidor de Imágenes
 Proyecto técnico orientado a la instalación y mantenimiento masivo de sistemas operativos mediante un servidor de imágenes.
 
-## Tecnologías
+---
 
-- Java
-- C
-- Git y GitHub
-- MySQL básico
-- HTML / CSS básico
-- Linux / Ubuntu Server básico
+## 📊 Estadísticas de GitHub
 
-## Objetivo
+![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=agustinbruno07&show_icons=true&theme=tokyonight)
 
-Seguir mejorando como desarrollador y conseguir experiencia real en proyectos de software, soporte técnico, etc. 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustinbruno07&layout=compact&theme=tokyonight)
 
-## Contacto
+---
 
-- GitHub: @agustinbruno07
+## 🎯 Objetivo
+Seguir mejorando como desarrollador y conseguir experiencia real en proyectos de software, soporte técnico e infraestructura IT.
+
+---
+
+## 📫 Contacto
+- GitHub: [@agustinbruno07](https://github.com/agustinbruno07)
+- Email: brunoagustin562@gmail.com
