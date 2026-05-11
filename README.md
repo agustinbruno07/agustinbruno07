@@ -46,14 +46,6 @@ Proyecto técnico orientado a la instalación y mantenimiento masivo de sistemas
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=agustinbruno07&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustinbruno07&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 Objetivo
 Seguir mejorando como desarrollador y conseguir experiencia real en proyectos de software, soporte técnico e infraestructura IT.
 
