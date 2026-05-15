@@ -1,7 +1,7 @@
 # 👋 Hola, soy Agustin Bruno
 
 ## 🚀 Sobre mí
-Soy estudiante técnico en informática de Argentina, interesado en el desarrollo de software, backend y videojuegos.
+Soy estudiante técnico en computación de Argentina, interesado en el desarrollo de software, backend y videojuegos.
 
 Me gusta aprender constantemente, mejorar mis habilidades y trabajar en proyectos prácticos de programación, sistemas y soporte técnico.
 
